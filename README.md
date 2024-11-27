@@ -1,4 +1,4 @@
-p5-js-shooter-game.vercel.app
+https://p5-js-shooter-game.vercel.app
 
 Click on the above link and enjoy!!
 
